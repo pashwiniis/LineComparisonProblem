@@ -12,6 +12,9 @@ namespace LineComparisonProblem
         {
             double length = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
             return length;  
-        }    
+        }
+        
+
+
     }
 }
